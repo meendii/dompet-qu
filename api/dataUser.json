@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5",
+    "email": "ridho@gmail.com",
+    "password": "$2y$10$JyNJABETyzlZl.l0mGs1BuXFJE7RXCa/x/9p/HWIr/whXkFyJ.5F2",
+    "status": "aktif",
+    "level": "user",
+    "no_rek": "454290896580"
+  },
+  {
+    "id": "6",
+    "email": "randi@gmail.com",
+    "password": "$2y$10$JyNJABETyzlZl.l0mGs1BuXFJE7RXCa/x/9p/HWIr/whXkFyJ.5F2",
+    "status": "aktif",
+    "level": "user",
+    "no_rek": "689583977372"
+  },
+  {
+    "id": "7",
+    "email": "rosa@gmail.com",
+    "password": "$2y$10$JyNJABETyzlZl.l0mGs1BuXFJE7RXCa/x/9p/HWIr/whXkFyJ.5F2",
+    "status": "aktif",
+    "level": "user",
+    "no_rek": "490528404584"
+  }
+]
