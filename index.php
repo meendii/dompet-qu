@@ -159,7 +159,7 @@ if (isset($_SESSION["login"])) {
                     <div class="team">
                         <div class="gbr">
                             <div class="box">
-                                <img class="img" src="img/boy.png" width="100%">
+                                <img class="img" src="profile/boy.png" width="100%">
                             </div>
                         </div>
                         <div class="teks">
@@ -173,7 +173,7 @@ if (isset($_SESSION["login"])) {
                     <div class="team">
                         <div class="gbr">
                             <div class="box">
-                                <img class="img" src="img/boy.png" width="100%">
+                                <img class="img" src="profile/boy.png" width="100%">
                             </div>
                         </div>
                         <div class="teks">
@@ -187,7 +187,7 @@ if (isset($_SESSION["login"])) {
                     <div class="team">
                         <div class="gbr">
                             <div class="box">
-                                <img class="img" src="img/girl.png" width="100%">
+                                <img class="img" src="profile/girl.png" width="100%">
                             </div>
                         </div>
                         <div class="teks">
